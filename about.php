@@ -30,7 +30,7 @@ $user_id = $_SESSION['user_id'];
     <!-- custom css file link -->
     <link rel="stylesheet" href="css/style1.css">
     <link rel="stylesheet" href="css/style2.css">
- 
+
 </head>
 <body>
 
