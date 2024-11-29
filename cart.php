@@ -62,7 +62,7 @@ if(isset($_GET['delete_all'])){
 
     <section class="shopping-cart">
     <h1 class="title">products added</h1>
-
+    <p>Products Added</p>
     <div class="box-container">
 
         <?php
